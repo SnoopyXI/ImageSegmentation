@@ -6,7 +6,7 @@
 
 
 ## Colon Cancer Histopathological Dataset (CoCa) 结肠癌病理数据集
-- 样本数量：151
+- 样本数量：1744
 - 图片尺寸：
 - 文件说明：
 
