@@ -6,12 +6,12 @@
 
 
 ## Colon Cancer Histopathological Dataset (CoCa) 结肠癌病理数据集
+- 样本数量：82
+- 图片尺寸：1037x1388
+- 类别数：0/1
+
+## NuCLS datasets 乳腺癌细胞核病理数据集
 - 样本数量：1744
 - 图片尺寸：
 - 类别数：
-
-## NuCLS datasets 乳腺癌细胞核病理数据集
-- 样本数量：82
-- 图片尺寸：1037x1388
-- 类别数：二分类
 
